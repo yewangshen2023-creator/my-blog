@@ -1,7 +1,7 @@
 ---
 title: "我的第一篇文章"
 published: 2026-10-03
-description: 
+description: ""
 tags: []
 category: ""
 draft: false
