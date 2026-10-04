@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "一片普通的叶子",
 	lang: "zh_CN", // 语言代码，中文简体为 'zh_CN'
 	themeColor: {
-		hue: 130, // 默认主题色相：130 为叶绿色。红 0、青 200、蓝 250、粉 345
+		hue: 250, // 主题色相（0-360 的角度，不是具体颜色）：250 = 蓝色。红 0、橙 60、绿 130、青 200、紫 300、粉 345
 		fixed: false, // 设为 true 可对访客隐藏主题色选择器
 	},
 	banner: {
