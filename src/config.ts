@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // 相对 /src 目录；换成自己的头像时替换该文件即可
+	avatar: "assets/images/avatar.jpg", // 相对 /src 目录；换成自己的头像时替换该文件即可
 	name: "一片叶子",
 	bio: "一片普通的叶子",
 	links: [
